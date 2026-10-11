@@ -4,6 +4,8 @@
 
 *working on it*
 
+*using ollama*
+
 *ms (microsoft offered course- Machine learning models*
 
 **Progress on 🔝**
