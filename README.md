@@ -9,7 +9,7 @@
 *ms (microsoft offered course- Machine learning models*
 
 **Progress on 🔝**
-Python libraries almost completed... 🚀
+Python libraries almost completed... 
 
 ## 🐍 Python Libraries
 
