@@ -20,3 +20,13 @@ print("\nLast 3 rows:\n",df.tail(3))
 print("\nRows & Columns:\n", df.shape)
 
 print("\nColumn names:\n", df.columns.tolist())
+
+
+print("Mean:\n", df["marks"].mean())
+
+print("Median:\n", df["marks"].median())
+
+print("Minimum:\n", df["marks"].min())
+
+print("Maximum:\n", df["marks"].max())
+  
