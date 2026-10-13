@@ -51,11 +51,11 @@ pip install matplotlib
 
 Uploading Python mini projects in this repository:
 
-**GitHub:** (https://github.com/Rudra0075-ms/Python_Mini_Projects)[Python_Mini_Projects_Repo]
+**GitHub:** [Python_Mini_Projects_Repo](https://github.com/Rudra0075-ms/Python_Mini_Projects)
 
 uploading Python Tasks & my work progress in python in this repository:
 
-**Github:** [https://github.com/Rudra0075-ms/PYTHON_DAILY](Python_Daily_Progress_Repo)
+**Github:** [Python_Daily_Progress_Repo](https://github.com/Rudra0075-ms/PYTHON_DAILY)
 
 🚀 More projects coming soon...
 
