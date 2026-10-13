@@ -1,7 +1,5 @@
 # 🤖 AI Journey....                   
 
-*reopening it*
-
 *working on it*
 
 *using ollama*
