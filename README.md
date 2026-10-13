@@ -2,7 +2,7 @@
 
 *using ollama*
 
-*using google colab*
+*using google colab for code debugging & running*
 
 *uploading new projects soon*
 
