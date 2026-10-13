@@ -12,3 +12,11 @@ data = {
 
 df = pd.DataFrame(data)
 print(df)
+
+print("1st 5 rows:\n",df.head(5))
+
+print("\nLast 3 rows:\n",df.tail(3))
+
+print("\nRows & Columns:\n", df.shape)
+
+print("\nColumn names:\n", df.columns.tolist())
