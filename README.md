@@ -1,7 +1,5 @@
 # 🤖 AI Journey....                   
 
-*working on it*
-
 *using ollama*
 
 *using google colab*
