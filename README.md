@@ -4,6 +4,8 @@
 
 *using google colab for code debugging & running*
 
+*Antigravity IDE*
+
 *uploading new projects soon*
 
 **Progress on 🔝**
