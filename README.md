@@ -53,6 +53,10 @@ Uploading Python mini projects in this repository:
 
 **GitHub:** https://github.com/Rudra0075-ms/Python_Mini_Projects
 
+uploading Python Tasks & my work progress in python in this repository:
+
+
+
 🚀 More projects coming soon...
 
 🤖 Projects on ai agents coming soon...
