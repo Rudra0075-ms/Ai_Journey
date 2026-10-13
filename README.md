@@ -10,6 +10,7 @@
 
 **Progress on 🔝**
 Python libraries almost completed... 
+Moving to the AI & ML field now!!!
 
 ## 🐍 Python Libraries
 
