@@ -10,8 +10,6 @@
 
 *uploading new projects soon*
 
-*ms (microsoft offered course- Machine learning models*
-
 **Progress on 🔝**
 Python libraries almost completed... 
 
