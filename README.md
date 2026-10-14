@@ -46,7 +46,7 @@ import matplotlib.pyplot as plt
 pip install matplotlib
 ```
 
-## 📂 Python Mini Projects
+## 📂 Python Mini Projects & Daily Progress 
 
 Uploading Python mini projects in this repository:
 
