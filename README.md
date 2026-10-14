@@ -8,6 +8,8 @@
 
 *Started*
 
+*Using anaconda package*
+
 *uploading new projects soon*
 
 **Progress on 🔝**
