@@ -1,6 +1,6 @@
 # 🤖 AI Journey....                   
 
-*using ollama*                                                       ................. (        day 1, day 2, day 3
+*using ollama*                                                       ................. (        day 1, day 2, day 3, day 4
 
 *using google colab for code debugging & running*
 
