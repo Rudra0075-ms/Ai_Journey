@@ -8,7 +8,7 @@
 
 *Started*
 
-*improving maths*
+*improving maths for ML*
 
 *following kris naik (youtube & github): [REPO for AI, ML, DL](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)*
 
