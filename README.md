@@ -10,7 +10,7 @@
 
 *LLM, RAG,...*
 
-*improving maths for ML... probability, statistics...*
+*improving maths for ML... probability, statistics, regression...*
 
 *following kris naik (youtube & github): [REPO for AI, ML, DL](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)*
 
